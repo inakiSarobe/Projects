@@ -4,13 +4,6 @@ Pequeña app en Python que muestra una ventana con la pregunta romántica: **"¿
 
 ---
 
-## Contenido
-
-- `Propuesta.py` — archivo principal con la aplicación (Tkinter).
-- `README.md` — este documento.
-
----
-
 ## Requisitos
 
 - Python 3.x (recomendado 3.8+).
